@@ -1,0 +1,10 @@
+/* Nama File : ..... */
+/* identitas perancang/penulis */
+/* Deskripsi ringkas dari program */
+
+<tipe> main([int argc, char** argv[, char** envp]])
+/* Keterangan program*/
+/* KAMUS */
+/* Algoritma/deretan instruksi yang executable */
+     return(<retval>);
+}
